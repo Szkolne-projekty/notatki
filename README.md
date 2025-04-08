@@ -8,6 +8,8 @@ Po prostu notatki
 
 ## Historia
 
+-   [Daty na sprawdzian z działów 5 i 6](https://github.com/Szkolne-projekty/notatki/blob/main/Historia/Daty%20na%20sprawdzian%20dzia%C5%82%205%20i%206.pdf)
+
 ### Dział 5
 
 -   [Daty z powtórzenia (tematy 6 i 7)](https://github.com/Szkolne-projekty/notatki/blob/main/Historia/5/Dzia%C5%82%20V%20powt%C3%B3rzenie%20daty.pdf)
