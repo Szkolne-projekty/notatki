@@ -2,6 +2,10 @@
 
 Po prostu notatki
 
+## Bazy danych
+
+-   [BazyS](https://github.com/Szkolne-projekty/notatki/blob/main/Bazy%20danych/BazyS.md)
+
 ## Strony i aplikacje internetowe
 
 -   [PHP Tablice](https://github.com/Szkolne-projekty/notatki/blob/main/Strony%20i%20aplikacje%20internetowe/PHP_Tablice.md)
