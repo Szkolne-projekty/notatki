@@ -92,7 +92,35 @@ SELECT ID_SAM, DATA_WYP, MIN(DATE_ADD(DATA_WYP, INTERVAL (7 - WEEKDAY(DATA_WYP))
 ## Osoba 4
 
 ```sql
-nie mam ;p
+1. Wyświetl nazwiska, imiona i identyfikatory klientów sortując nazwiska w kolejności alfabetycznej.
+
+SELECT klienci.nazwisko, klienci.imie, klienci.id_kli FROM klienci GROUP BY nazwisko;
+
+2. Wyświetl nazwiska, imiona klientów i miejscowości oraz modele samochodów, dla samochodów wyprodukowanych w Niemczech i dla klientów zamieszkałych poza Warszawą.
+
+SELECT klienci.nazwisko, klienci.imie, klienci.miejscowosc, samochody.model FROM klienci, samochody WHERE samochody.kraj_prod = "Niemcy" AND klienci.miejscowosc !="Warszawa";
+
+3. Wyświetl marki i modele samochodów wyprodukowanych w tym samym kraju, w którym wyprodukowano najnowszy samochód w wypożyczalni.
+
+SELECT samochody.marka, samochody.model FROM samochody WHERE samochody.kraj_prod = "Japonia";
+
+4. Wyzwalacz które automatycznie doda nowym samochodom koszy wypożyczenia 100.
+
+CREATE TRIGGER wyzwalacz AFTER INSERT ON samochody FOR EACH ROW BEGIN DECLARE i INT DEFAULT 0;
+DECLARE id_sam INTEGER;
+SET id_sam = NEW.ID_SAM;
+WHILE i < 100 DO INSERT INTO wypozyczenia (ID_SAM, ID_KLI, DATA_WYP, DATA_ZWR, KOSZT) VALUES (id_sam, NULL, NULL, NULL, NULL);
+SET i = i + 1;
+END WHILE;
+END;
+
+5. Wyświetl liczby miesięcy, jakie upłynęły pomiędzy data wypożyczenia a datą obecną. Kolumnie nadaj nazwę LICZBA_MIESIECY.
+
+SELECT wypozyczenia.id_sam, datediff(CURDATE(), DATA_WYP) / 30 AS LICZBA_MIESIECY FROM wypozyczenia;
+
+6. Wyświetl daty ostatnich dni miesiąca, przypadających po dacie zwrotu dla każdego samochodu.
+
+SELECT wypozyczenia.id_sam, wypozyczenia.data_zwr, LAST_DAY(DATE_ADD(DATA_ZWR, INTERVAL 1 day)) AS DATA_OST_DNIA_MIES FROM wypozyczenia;
 ```
 
 ## Osoba 5
