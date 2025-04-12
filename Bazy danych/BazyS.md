@@ -145,8 +145,6 @@ WHERE data_zwr> now();
 ## Osoba 6
 
 ```sql
-OSOBA 6
-
 Zadanie 1  -  Wyświetl wszystkie informacje z tabeli WYPOŻYCZENIA w kolejności od najbardziej do najmniej kosztownego.
 
 SELECT * FROM WYPOZYCZENIA ORDER BY KOSZT DESC;
