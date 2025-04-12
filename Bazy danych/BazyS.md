@@ -98,26 +98,26 @@ nie mam ;p
 ## Osoba 5
 
 ```sql
-1.Wyświetl marki, modele, pojemność silnika oraz koszt dnia wszystkich samochodów, których pojemność jest równa co najmniej 1,4 l. a koszt dnia mniejszy od 80 zł
+1. Wyświetl marki, modele, pojemność silnika oraz koszt dnia wszystkich samochodów, których pojemność jest równa co najmniej 1,4 l. a koszt dnia mniejszy od 80 zł
 
 SELECT marka, model, poj_sil, koszt_dnia
 FROM samochody
 WHERE poj_sil >= 1.4 AND koszt_dnia< 80;
 
-2.Wyświetl koszty wypożyczenia oraz nazwiska klientów.
+2. Wyświetl koszty wypożyczenia oraz nazwiska klientów.
 
 SELECT klienci.nazwisko, wypozyczenia.koszt
 FROM klienci
 JOIN wypozyczenia ON klienci.id_kli= wypozyczenia.id_kli;
 
-3.Wyświetl nazwy tych producentów (ich marki), którzy produkują samochody których średnia pojemność silnika jest większa niż średnia pojemność silnika dla wszystkich samochodów w bazie.
+3. Wyświetl nazwy tych producentów (ich marki), którzy produkują samochody których średnia pojemność silnika jest większa niż średnia pojemność silnika dla wszystkich samochodów w bazie.
 
 SELECT marka
 FROM samochody
 GROUP BY marka
 HAVING AVG(poj_sil) > (SELECT AVG(poj_sil) FROM samochody);
 
-4.Wyzwalacz które automatycznie podliczy koszt wypożyczenia samochodu po oddaniu i
+4. Wyzwalacz które automatycznie podliczy koszt wypożyczenia samochodu po oddaniu i
 wpisze w koszt.
 
 DELIMITER //
@@ -129,13 +129,13 @@ END;
 //
 DELIMITER ;
 
-5.Wyświetl ilość samochodów wyprodukowanych w Niemczech.
+5. Wyświetl ilość samochodów wyprodukowanych w Niemczech.
 
 SELECT COUNT(*) AS ilosc
 FROM samochody
 WHERE kraj_prod= 'Niemcy';
 
-6.Wyświetl z tabeli WYPOZYCZENIA sumę kosztów wypożyczenia dla wszystkich samochodów, które są aktualnie wypożyczone (wykorzystaj funkcji sysdate).
+6. Wyświetl z tabeli WYPOZYCZENIA sumę kosztów wypożyczenia dla wszystkich samochodów, które są aktualnie wypożyczone (wykorzystaj funkcji sysdate).
 
 SELECT SUM(koszt) AS suma_kosztow
 FROM wypozyczenia
@@ -177,11 +177,26 @@ SELECT WYPOZYCZENIA.ID_WYP, (WYPOZYCZENIA.KOSZT + 0.23 * WYPOZYCZENIA.KOSZT) - 0
 
 ## Osoba 7
 
+Brak zadania 4 i 6
+
 ```sql
-nie mam ;p
+1. SELECT * FROM samochody WHERE KRAJ_PROD = 'Niemcy' AND ROK_PROD >= 1995;
+
+2. SELECT KLIENCI.NAZWISKO, SAMOCHODY.MARKA, SAMOCHODY.MODEL FROM KLIENCI NATURAL JOIN WYPOZYCZENIA NATURAL JOIN SAMOCHODY WHERE WYPOZYCZENIA.DATA_ZWR != CURRENT_DATE;
+
+3. SELECT * FROM KLIENCI NATURAL JOIN WYPOZYCZENIA WHERE WYPOZYCZENIA.DATA_WYP > 2006-01-02 AND WYPOZYCZENIA.DATA_WYP < 2006-12-30;
+
+4. nie mam
+
+5. Wyświetl markę oraz średnią pojemność silnika dla danej marki z tabeli SAMOCHODY
+   SELECT MARKA, AVG(POJ_SIL) FROM SAMOCHODY GROUP BY MARKA;
+
+6. nie mam
 ```
 
 ## Osoba 8
+
+Brak zadania 4
 
 ```sql
 1. Wyświetl marki, modele, pojemność silnika oraz koszt dnia wszystkich samochodów, których pojemność jest równa co najmniej 1,4 I. a koszt dnia mniejszy od 80 zł.
