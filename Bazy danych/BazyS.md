@@ -205,8 +205,6 @@ SELECT WYPOZYCZENIA.ID_WYP, (WYPOZYCZENIA.KOSZT + 0.23 * WYPOZYCZENIA.KOSZT) - 0
 
 ## Osoba 7
 
-Brak zadania 4 i 6
-
 ```sql
 1. SELECT * FROM samochody WHERE KRAJ_PROD = 'Niemcy' AND ROK_PROD >= 1995;
 
