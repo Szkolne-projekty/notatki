@@ -214,12 +214,26 @@ Brak zadania 4 i 6
 
 3. SELECT * FROM KLIENCI NATURAL JOIN WYPOZYCZENIA WHERE WYPOZYCZENIA.DATA_WYP > 2006-01-02 AND WYPOZYCZENIA.DATA_WYP < 2006-12-30;
 
-4. nie mam
+4. CREATE TABLE kopia_sam (
+id_kopiaSam INT AUTO_INCREMENT PRIMARY KEY,
+nr_rej VARCHAR(20)
+); a następnie DELIMITER //
+
+CREATE TRIGGER kopiuj_nr_rej_po_usunieciu
+BEFORE DELETE ON samochody
+FOR EACH ROW
+BEGIN
+INSERT INTO kopia_sam (nr_rej)
+VALUES (OLD.nr_rej);
+END //
+
+DELIMITER ;
+
 
 5. Wyświetl markę oraz średnią pojemność silnika dla danej marki z tabeli SAMOCHODY
    SELECT MARKA, AVG(POJ_SIL) FROM SAMOCHODY GROUP BY MARKA;
 
-6. nie mam
+6. SELECT samochody.ID_SAM, wypozyczenia.DATA_ZWR, LAST_DAY(wypozyczenia.DATA_ZWR) AS ostatni_dzien_miesiaca FROM wypozyczenia JOIN samochody ON wypozyczenia.ID_SAM = samochody.ID_SAM;
 ```
 
 ## Osoba 8
