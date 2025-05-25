@@ -2,6 +2,10 @@
 
 Po prostu notatki
 
+## Historia i teraźniejszość
+
+-   [HiT na sprawdzian 26.05.2025](https://github.com/Szkolne-projekty/notatki/blob/main/HiT/HIT%20na%2026.05.pdf)
+
 ## Bazy danych
 
 -   [BazyS](https://github.com/Szkolne-projekty/notatki/blob/main/Bazy%20danych/BazyS.md)
