@@ -2,6 +2,12 @@
 
 Po prostu notatki
 
+## Chemia
+
+### Kartkówka 1
+
+-   [Efekt energetyczny + szybkość reakcji chemicznej](https://github.com/Szkolne-projekty/notatki/blob/main/Chemia/Kartkówka%2006.10.pdf)
+
 ## Historia
 
 ### Dział 1
