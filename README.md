@@ -17,3 +17,7 @@ Po prostu notatki
 ### Dział 2
 
 -   [2.1 Powstanie styczniowe](https://github.com/Szkolne-projekty/notatki/blob/main/Historia/2/1/2.1%20Powstanie%20styczniowe.pdf)
+
+## Aplikacje webowe
+
+-   [jQuery](https://github.com/Szkolne-projekty/notatki/blob/main/Aplikacje%20webowe/jQuery.md)
