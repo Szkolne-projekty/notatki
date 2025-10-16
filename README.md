@@ -18,6 +18,12 @@ Po prostu notatki
 
 -   [Efekt energetyczny + szybkość reakcji chemicznej](https://github.com/Szkolne-projekty/notatki/blob/main/Chemia/Kartkówka%2006.10.pdf)
 
+## Biologia
+
+### Dział 7
+
+-   [Dział 7](https://github.com/Szkolne-projekty/notatki/blob/main/Biolgogia/Dział%207.pdf)
+
 ## Aplikacje webowe
 
 -   [jQuery](https://github.com/Szkolne-projekty/notatki/blob/main/Aplikacje%20webowe/jQuery.md)
