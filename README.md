@@ -22,7 +22,7 @@ Po prostu notatki
 
 ### Dział 7
 
--   [Dział 7](https://github.com/Szkolne-projekty/notatki/blob/main/Biolgogia/Dział%207.pdf)
+-   [Dział 7](https://github.com/Szkolne-projekty/notatki/blob/main/Biologia/Dzia%C5%82%207.pdf)
 
 ## Aplikacje webowe
 
