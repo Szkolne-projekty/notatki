@@ -36,3 +36,7 @@ Po prostu notatki
 ## Aplikacje desktopowe i mobilne
 
 -   [Notatka na 15.10.2025](https://github.com/Szkolne-projekty/notatki/blob/main/Aplikacje%20desktopowe%20i%20mobilne/15.10.2025.pdf)
+
+## Historia i Teraźniejszość
+
+-   [Sprawdzian 10.2025](https://github.com/Szkolne-projekty/notatki/blob/main/HiT/Sprawdzian%201/HIT%2010.2025.pdf)
