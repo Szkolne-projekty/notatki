@@ -15,7 +15,7 @@ Po prostu notatki
 
 ### Daty
 
--   [Kartkówka 10.2025](https://github.com/Szkolne-projekty/notatki/blob/main/Historia/Daty/Daty%2010.2025)
+-   [Kartkówka 10.2025](https://github.com/Szkolne-projekty/notatki/blob/main/Historia/Daty/Daty%2010.2025.pdf)
 
 ## Chemia
 
