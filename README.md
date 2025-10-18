@@ -39,4 +39,6 @@ Po prostu notatki
 
 ## Historia i Teraźniejszość
 
+### Sprawdzian 1
+
 -   [Sprawdzian 10.2025](https://github.com/Szkolne-projekty/notatki/blob/main/HiT/Sprawdzian%201/HIT%2010.2025.pdf)
