@@ -13,6 +13,10 @@ Po prostu notatki
 
 -   [2.1 Powstanie styczniowe](https://github.com/Szkolne-projekty/notatki/blob/main/Historia/2/1/2.1%20Powstanie%20styczniowe.pdf)
 
+### Daty
+
+-   [Kartkówka 10.2025](https://github.com/Szkolne-projekty/notatki/blob/main/Historia/Daty/Daty%2010.2025)
+
 ## Chemia
 
 ### Kartkówka 1
