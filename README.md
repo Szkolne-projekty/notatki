@@ -7,6 +7,7 @@ Po prostu notatki
 ### Dział 1
 
 -   [1.1 Od wojny krymskiej do zjednoczenia Włoch](https://github.com/Szkolne-projekty/notatki/blob/main/Historia/1/1/1.1%20Od%20wojny%20krymskiej%20do%20zjednoczenia%20W%C5%82och.pdf)
+-   [1.3 Stany Zjednoczone w XIX wieku](https://github.com/Szkolne-projekty/notatki/blob/main/Historia/1/3/1.3%20Stany%20Zjednoczone%20w%20XIX%20wieku.pdf)
 
 ### Dział 2
 
