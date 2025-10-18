@@ -24,6 +24,10 @@ Po prostu notatki
 
 -   [Dział 7](https://github.com/Szkolne-projekty/notatki/blob/main/Biologia/Dzia%C5%82%207.pdf)
 
+### Dział 8
+
+-   [Dział 8](https://github.com/Szkolne-projekty/notatki/blob/main/Biologia/Dzia%C5%82%208.pdf)
+
 ## Aplikacje webowe
 
 -   [jQuery](https://github.com/Szkolne-projekty/notatki/blob/main/Aplikacje%20webowe/jQuery.md)
