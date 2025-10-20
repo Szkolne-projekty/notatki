@@ -19,17 +19,11 @@ Po prostu notatki
 
 ## Chemia
 
-### Kartkówka 1
-
 -   [Efekt energetyczny + szybkość reakcji chemicznej](https://github.com/Szkolne-projekty/notatki/blob/main/Chemia/Kartkówka%2006.10.pdf)
 
 ## Biologia
 
-### Dział 7
-
 -   [Dział 7](https://github.com/Szkolne-projekty/notatki/blob/main/Biologia/Dzia%C5%82%207.pdf)
-
-### Dział 8
 
 -   [Dział 8](https://github.com/Szkolne-projekty/notatki/blob/main/Biologia/Dzia%C5%82%208.pdf)
 
@@ -42,7 +36,5 @@ Po prostu notatki
 -   [Notatka na 15.10.2025](https://github.com/Szkolne-projekty/notatki/blob/main/Aplikacje%20desktopowe%20i%20mobilne/15.10.2025.pdf)
 
 ## Historia i Teraźniejszość
-
-### Sprawdzian 1
 
 -   [Sprawdzian 10.2025](https://github.com/Szkolne-projekty/notatki/blob/main/HiT/Sprawdzian%201/HIT%2010.2025.pdf)
