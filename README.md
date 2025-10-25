@@ -2,7 +2,8 @@
 
 Po prostu notatki
 
-## Historia
+<details>
+<summary><h2>Historia</h2></summary>
 
 ### Dział 1
 
@@ -18,24 +19,41 @@ Po prostu notatki
 
 -   [Kartkówka 10.2025](https://github.com/Szkolne-projekty/notatki/blob/main/Historia/Daty/Daty%2010.2025.pdf)
 
-## Chemia
+</details>
+
+<details>
+<summary><h2>Chemia</h2></summary>
 
 -   [Efekt energetyczny + szybkość reakcji chemicznej](https://github.com/Szkolne-projekty/notatki/blob/main/Chemia/Kartkówka%2006.10.pdf)
 
-## Biologia
+</details>
+
+<details>
+<summary><h2>Biologia</h2></summary>
 
 -   [Dział 7](https://github.com/Szkolne-projekty/notatki/blob/main/Biologia/Dzia%C5%82%207.pdf)
 
 -   [Dział 8](https://github.com/Szkolne-projekty/notatki/blob/main/Biologia/Dzia%C5%82%208.pdf)
 
-## Aplikacje webowe
+</details>
+
+<details>
+<summary><h2>Aplikacje webowe</h2></summary>
 
 -   [jQuery](https://github.com/Szkolne-projekty/notatki/blob/main/Aplikacje%20webowe/jQuery.md)
 
-## Aplikacje desktopowe i mobilne
+</details>
+
+<details>
+<summary><h2>Aplikacje desktopowe i mobilne</h2></summary>
 
 -   [Notatka na 15.10.2025](https://github.com/Szkolne-projekty/notatki/blob/main/Aplikacje%20desktopowe%20i%20mobilne/15.10.2025.pdf)
 
-## Historia i Teraźniejszość
+</details>
+
+<details>
+<summary><h2>Historia i Teraźniejszość</h2></summary>
 
 -   [Sprawdzian 10.2025](https://github.com/Szkolne-projekty/notatki/blob/main/HiT/Sprawdzian%201/HIT%2010.2025.pdf)
+
+</details>
