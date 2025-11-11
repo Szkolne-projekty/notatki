@@ -30,7 +30,9 @@ Po prostu notatki
 
 ## Aplikacje webowe
 
--   [jQuery](https://github.com/Szkolne-projekty/notatki/blob/main/Aplikacje%20webowe/jQuery.md)
+-   [jQuery](https://github.com/Szkolne-projekty/notatki/blob/main/Aplikacje%20webowe/jQuery%20notatka.md)
+
+-   [TypeScript](https://github.com/Szkolne-projekty/notatki/blob/main/Aplikacje%20webowe/TypeScript%20notatka.md)
 
 ## Aplikacje desktopowe i mobilne
 
