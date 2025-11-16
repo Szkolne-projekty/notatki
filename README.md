@@ -22,6 +22,8 @@ Po prostu notatki
 
 -   [Efekt energetyczny + szybkość reakcji chemicznej](https://github.com/Szkolne-projekty/notatki/blob/main/Chemia/Kartkówka%2006.10.pdf)
 
+-   [Materia](https://github.com/Szkolne-projekty/notatki/blob/main/Biologia/Materia.pdf)
+
 ## Biologia
 
 -   [Dział 7](https://github.com/Szkolne-projekty/notatki/blob/main/Biologia/Dzia%C5%82%207.pdf)
