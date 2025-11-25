@@ -9,13 +9,15 @@ Po prostu notatki
 ### Dział 1
 
 -   [1.1 Od wojny krymskiej do zjednoczenia Włoch](https://github.com/Szkolne-projekty/notatki/blob/main/Historia/1/1/1.1%20Od%20wojny%20krymskiej%20do%20zjednoczenia%20W%C5%82och.pdf)
--   [1.2 Zjednoczenie Niemiec](https://github.com/Szkolne-projekty/notatki/blob/main/Historia/1/2/1.2%20Zjednoczenie%20Niemiec.pdf)
+-   **[1.2 Zjednoczenie Niemiec](https://github.com/Szkolne-projekty/notatki/blob/main/Historia/1/2/1.2%20Zjednoczenie%20Niemiec.pdf)**
 -   [1.3 Stany Zjednoczone w XIX wieku](https://github.com/Szkolne-projekty/notatki/blob/main/Historia/1/3/1.3%20Stany%20Zjednoczone%20w%20XIX%20wieku.pdf)
+-   **[1.4 Ekspansja kolonialna - mapa](https://github.com/Szkolne-projekty/notatki/blob/main/Historia/1/4/28.jpg)**
 -   **[1.5 Nowe ideologie i ruchy społeczne](https://github.com/Szkolne-projekty/notatki/blob/main/Historia/1/5/1.5%20Nowe%20ideologie%20i%20ruchy%20spo%C5%82eczne.pdf)**
 
 ### Dział 2
 
 -   [2.1 Powstanie styczniowe](https://github.com/Szkolne-projekty/notatki/blob/main/Historia/2/1/2.1%20Powstanie%20styczniowe.pdf)
+-   **[2.2 Ziemie polskie po powstaniu styczniowym](https://github.com/Szkolne-projekty/notatki/blob/main/Historia/2/2/2.2%20Ziemie%20polskie%20po%20powstaniu%20styczniowym.pdf)**
 
 ### Daty
 
