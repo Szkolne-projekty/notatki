@@ -18,6 +18,7 @@ Po prostu notatki
 
 -   [2.1 Powstanie styczniowe](https://github.com/Szkolne-projekty/notatki/blob/main/Historia/2/1/2.1%20Powstanie%20styczniowe.pdf)
 -   **[2.2 Ziemie polskie po powstaniu styczniowym](https://github.com/Szkolne-projekty/notatki/blob/main/Historia/2/2/2.2%20Ziemie%20polskie%20po%20powstaniu%20styczniowym.pdf)**
+    -   **[2.2a Wigilia na Syberii](https://github.com/Szkolne-projekty/notatki/blob/main/Historia/2/2/2.2a%20Wigilia%20na%20Syberii.pdf)**
 
 ### Daty
 
