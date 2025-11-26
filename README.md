@@ -23,6 +23,10 @@ Po prostu notatki
 -   **[2.4 Nowe nurty polityczne](https://github.com/Szkolne-projekty/notatki/blob/main/Historia/2/4/2.4%20Nowe%20nurty%20polityczne.pdf)**
 -   **[2.5 Polska kultura i nauka przełomu XIX i XX wieku](https://github.com/Szkolne-projekty/notatki/blob/main/Historia/2/5/2.5%20Polska%20kultura%20i%20nauka%20prze%C5%82omu%20XIX%20i%20XX%20wieku.pdf)**
 
+### Dział 3
+
+-   **[3.1 Świat w przededniu wielkiej wojny](https://github.com/Szkolne-projekty/notatki/blob/main/Historia/2/5/2.5%20Polska%20kultura%20i%20nauka%20prze%C5%82omu%20XIX%20i%20XX%20wieku.pdf)**
+
 ### Daty
 
 -   [Kartkówka 10.2025](https://github.com/Szkolne-projekty/notatki/blob/main/Historia/Daty/Daty%2010.2025.pdf)
