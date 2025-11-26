@@ -25,7 +25,7 @@ Po prostu notatki
 
 ### Dział 3
 
--   **[3.1 Świat w przededniu wielkiej wojny](https://github.com/Szkolne-projekty/notatki/blob/main/Historia/2/5/2.5%20Polska%20kultura%20i%20nauka%20prze%C5%82omu%20XIX%20i%20XX%20wieku.pdf)**
+-   **[3.1 Świat w przededniu wielkiej wojny](https://github.com/Szkolne-projekty/notatki/blob/main/Historia/3/1/3.1%20%C5%9Awiat%20w%20przededniu%20wielkiej%20wojny.pdf)**
 
 ### Daty
 
