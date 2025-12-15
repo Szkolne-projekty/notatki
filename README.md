@@ -31,11 +31,17 @@ Po prostu notatki
 
 -   [Kartkówka 10.2025](https://github.com/Szkolne-projekty/notatki/blob/main/Historia/Daty/Daty%2010.2025.pdf)
 
-## Chemia
+---
 
--   [Efekt energetyczny + szybkość reakcji chemicznej](https://github.com/Szkolne-projekty/notatki/blob/main/Chemia/Kartkówka%2006.10.pdf)
+## Aplikacje desktopowe i mobilne
 
--   [Materia](https://github.com/Szkolne-projekty/notatki/blob/main/Chemia/Materia.pdf)
+-   [Notatka na 15.10.2025](https://github.com/Szkolne-projekty/notatki/blob/main/Aplikacje%20desktopowe%20i%20mobilne/15.10.2025.pdf)
+
+## Aplikacje webowe
+
+-   [jQuery](https://github.com/Szkolne-projekty/notatki/blob/main/Aplikacje%20webowe/jQuery%20notatka.md)
+
+-   [TypeScript](https://github.com/Szkolne-projekty/notatki/blob/main/Aplikacje%20webowe/TypeScript%20notatka.md)
 
 ## Biologia
 
@@ -45,15 +51,15 @@ Po prostu notatki
 
 -   [Dział 9](https://github.com/Szkolne-projekty/notatki/blob/main/Biologia/Dzia%C5%82%209.pdf)
 
-## Aplikacje webowe
+## Chemia
 
--   [jQuery](https://github.com/Szkolne-projekty/notatki/blob/main/Aplikacje%20webowe/jQuery%20notatka.md)
+-   [Efekt energetyczny + szybkość reakcji chemicznej](https://github.com/Szkolne-projekty/notatki/blob/main/Chemia/Kartkówka%2006.10.pdf)
 
--   [TypeScript](https://github.com/Szkolne-projekty/notatki/blob/main/Aplikacje%20webowe/TypeScript%20notatka.md)
+-   [Materia](https://github.com/Szkolne-projekty/notatki/blob/main/Chemia/Materia.pdf)
 
-## Aplikacje desktopowe i mobilne
+## Fizyka
 
--   [Notatka na 15.10.2025](https://github.com/Szkolne-projekty/notatki/blob/main/Aplikacje%20desktopowe%20i%20mobilne/15.10.2025.pdf)
+-   [Ruch drgający](https://github.com/Szkolne-projekty/notatki/blob/main/Fizyka/Ruch%20drgający.pdf)
 
 ## Historia i Teraźniejszość
 
