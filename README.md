@@ -51,6 +51,10 @@ Po prostu notatki
 
 -   [Dział 9](https://github.com/Szkolne-projekty/notatki/blob/main/Biologia/Dzia%C5%82%209.pdf)
 
+-   [Kartkówka styczeń](https://github.com/Szkolne-projekty/notatki/blob/main/Biologia/Kartk%C3%B3wka%20stycze%C5%84.pdf)
+
+-   [Dział 10](https://github.com/Szkolne-projekty/notatki/blob/main/Biologia/Dzia%C5%82%2010.pdf)
+
 ## Chemia
 
 -   [Efekt energetyczny + szybkość reakcji chemicznej](https://github.com/Szkolne-projekty/notatki/blob/main/Chemia/Kartkówka%2006.10.pdf)
