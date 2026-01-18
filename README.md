@@ -4,7 +4,7 @@ Po prostu notatki
 
 ## Historia
 
-**Pogrubione - kartkówka styczeń**
+**Pogrubione - [kartkówka styczeń](https://github.com/Szkolne-projekty/notatki/blob/main/Historia/Kartk%C3%B3wka%20stycze%C5%84.pdf)**
 
 ### Dział 1
 
@@ -37,8 +37,6 @@ Po prostu notatki
 
 -   [Kartkówka 10.2025](https://github.com/Szkolne-projekty/notatki/blob/main/Historia/Daty/Daty%2010.2025.pdf)
 - **[Kartkówka styczeń](https://github.com/Szkolne-projekty/notatki/blob/main/Historia/Daty/Daty%20kartk%C3%B3wka%20stycze%C5%84.pdf)**
-
----
 
 ## Aplikacje desktopowe i mobilne
 
