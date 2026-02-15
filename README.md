@@ -76,6 +76,9 @@ Po prostu notatki
 
 -   [Sprawdzian 11.2025](https://github.com/Szkolne-projekty/notatki/blob/main/HiT/Sprawdzian%202/HiT%2011.2025.pdf)
 
+-   [Test 02.2026](https://github.com/Szkolne-projekty/notatki/blob/main/HiT/Test%203/notatka.pdf)
+ -   [notatka.md](https://github.com/Szkolne-projekty/notatki/blob/main/HiT/Test%203/notatka.md)
+
 ## Język polski
 
 -   [Sprawdzian pozytywizm](https://github.com/Szkolne-projekty/notatki/blob/main/Polski/pozytywizm.pdf)
