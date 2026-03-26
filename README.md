@@ -33,6 +33,8 @@ Po prostu notatki
 - **[5.1 Odrodzenie Rzeczypospolitej](https://github.com/Szkolne-projekty/notatki/blob/main/Historia/5/1/5.1%20Odrodzenie%20Rzeczypospolitej.pdf)**
 - **[5.2 Kształtowanie się granicy zachodniej i południowej](https://github.com/Szkolne-projekty/notatki/blob/main/Historia/5/2/5.2%20Kszta%C5%82towanie%20si%C4%99%20granicy%20zachodniej%20i%20po%C5%82udniowej.pdf)**
 - **[5.3 Walki o granicę wschodnią](https://github.com/Szkolne-projekty/notatki/blob/main/Historia/5/3/5.3%20Walki%20o%20granic%C4%99%20wschodni%C4%85.pdf)**
+    - [str. 200](https://github.com/Szkolne-projekty/notatki/blob/main/Historia/5/3/200.jpg)
+    - [str. 201](https://github.com/Szkolne-projekty/notatki/blob/main/Historia/5/3/200.jpg)
 
 ### Daty
 
