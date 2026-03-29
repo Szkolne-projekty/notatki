@@ -39,7 +39,7 @@ Po prostu notatki
 ### Daty
 
 - [Kartkówka 10.2025](https://github.com/Szkolne-projekty/notatki/blob/main/Historia/Daty/Daty%2010.2025.pdf)
-- **[Kartkówka styczeń](https://github.com/Szkolne-projekty/notatki/blob/main/Historia/Daty/Daty%20kartk%C3%B3wka%20stycze%C5%84.pdf)**
+- [Kartkówka styczeń](https://github.com/Szkolne-projekty/notatki/blob/main/Historia/Daty/Daty%20kartk%C3%B3wka%20stycze%C5%84.pdf)
 
 ## Aplikacje desktopowe i mobilne
 
