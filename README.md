@@ -4,7 +4,7 @@ Po prostu notatki
 
 ## Historia
 
-**Pogrubione - odpowiedź marzec**
+**Pogrubione - odpowiedź 13.03.2026**
 
 ### Dział 1
 
@@ -28,11 +28,15 @@ Po prostu notatki
 - [3.1 Świat w przededniu wielkiej wojny](https://github.com/Szkolne-projekty/notatki/blob/main/Historia/3/1/3.1%20%C5%9Awiat%20w%20przededniu%20wielkiej%20wojny.pdf)
 - [3.5 Polacy na frontach wielkiej wojny](https://github.com/Szkolne-projekty/notatki/blob/main/Historia/3/5/3.5%20Polacy%20na%20frontach%20wielkiej%20wojny.pdf)
 
+### Dział 4
+
+- **[4.1 Świat po wielkiej wojnie](https://github.com/Szkolne-projekty/notatki/blob/main/Historia/%C5%9Awiat%20po%20wielkiej%20wojnie.pdf)**
+
 ### Dział 5
 
-- **[5.1 Odrodzenie Rzeczypospolitej](https://github.com/Szkolne-projekty/notatki/blob/main/Historia/5/1/5.1%20Odrodzenie%20Rzeczypospolitej.pdf)**
-- **[5.2 Kształtowanie się granicy zachodniej i południowej](https://github.com/Szkolne-projekty/notatki/blob/main/Historia/5/2/5.2%20Kszta%C5%82towanie%20si%C4%99%20granicy%20zachodniej%20i%20po%C5%82udniowej.pdf)**
-- **[5.3 Walki o granicę wschodnią](https://github.com/Szkolne-projekty/notatki/blob/main/Historia/5/3/5.3%20Walki%20o%20granic%C4%99%20wschodni%C4%85.pdf)**
+- [5.1 Odrodzenie Rzeczypospolitej](https://github.com/Szkolne-projekty/notatki/blob/main/Historia/5/1/5.1%20Odrodzenie%20Rzeczypospolitej.pdf)
+- [5.2 Kształtowanie się granicy zachodniej i południowej](https://github.com/Szkolne-projekty/notatki/blob/main/Historia/5/2/5.2%20Kszta%C5%82towanie%20si%C4%99%20granicy%20zachodniej%20i%20po%C5%82udniowej.pdf)
+- [5.3 Walki o granicę wschodnią](https://github.com/Szkolne-projekty/notatki/blob/main/Historia/5/3/5.3%20Walki%20o%20granic%C4%99%20wschodni%C4%85.pdf)
     - [str. 200](https://github.com/Szkolne-projekty/notatki/blob/main/Historia/5/3/200.jpg)
     - [str. 201](https://github.com/Szkolne-projekty/notatki/blob/main/Historia/5/3/200.jpg)
 
