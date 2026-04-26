@@ -31,7 +31,7 @@ Po prostu notatki
 ### Dział 4
 
 - [4.1 Świat po wielkiej wojnie](https://github.com/Szkolne-projekty/notatki/blob/main/Historia/4/1/4.1%20%C5%9Awiat%20po%20wielkiej%20wojnie.pdf)
-- [4.2 ZSRS - Imperium komunistyczne](https://github.com/Szkolne-projekty/notatki/blob/main/Historia/4/2/4.2%20ZSRS%20-%20Imperium%20komunistyczne.pdf)
+- **[4.2 ZSRS - Imperium komunistyczne [AI]](https://github.com/Szkolne-projekty/notatki/blob/main/Historia/4/2/4.2%20ZSRS%20-%20Imperium%20komunistyczne.pdf)**
 
 ### Dział 5
 
