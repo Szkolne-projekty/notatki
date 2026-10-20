@@ -26,4 +26,4 @@ Po prostu notatki
 
 ### Zarządzanie firmą
 
-- [Podstawy zarządzania. Tło historyczne i jego geneza](https://github.com/Szkolne-projekty/notatki/blob/main/Zarz%C4%85dzanie%20firm%C4%85/podstawy%20zarzadzania%2C%20geneza.pdf)
+- [Podstawy zarządzania. Tło historyczne i jego geneza. Elementy zarządzania](https://github.com/Szkolne-projekty/notatki/blob/main/Zarz%C4%85dzanie%20firm%C4%85/)
