@@ -32,8 +32,8 @@ Po prostu notatki
 
 ## Chemia
 
-- [Kartkówka wrzesień - alkany](https://github.com/Szkolne-projekty/notatki/blob/main/Chemia/Chemia/Kartkowka%20wrzesien.pdf)
+- [Kartkówka wrzesień - alkany](https://github.com/Szkolne-projekty/notatki/blob/main/Chemia/Kartkowka%20wrzesien.pdf)
 
-- [Sprawdzian październik - węglowodory](https://github.com/Szkolne-projekty/notatki/blob/main/Chemia/Chemia/Weglowodory.pdf)
+- [Sprawdzian październik - węglowodory](https://github.com/Szkolne-projekty/notatki/blob/main/Chemia/Weglowodory.pdf)
 
-- [Sprawdzian październik - węglowodory krótka notatka](https://github.com/Szkolne-projekty/notatki/blob/main/Chemia/Chemia/Weglowodory_krotka.pdf)
+- [Sprawdzian październik - węglowodory krótka notatka](https://github.com/Szkolne-projekty/notatki/blob/main/Chemia/Weglowodory_krotka.pdf)
