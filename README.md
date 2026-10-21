@@ -20,11 +20,11 @@ Po prostu notatki
 
 - [Claude](https://github.com/Szkolne-projekty/notatki/blob/main/Polski/m%C5%82oda%20polska%20claude.pdf)
 
-### Fizyka
+## Fizyka
 
 - [Fotony](https://github.com/Szkolne-projekty/notatki/blob/main/Fizyka/fizyka%20fotony.pdf)
 
-### Zarządzanie firmą
+## Zarządzanie firmą
 
 - [Podstawy zarządzania. Tło historyczne i jego geneza. Elementy zarządzania](https://github.com/Szkolne-projekty/notatki/blob/main/Zarz%C4%85dzanie%20firm%C4%85/zarzadzanie_firma.md)
 
