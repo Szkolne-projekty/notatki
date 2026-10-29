@@ -14,6 +14,12 @@ Po prostu notatki
 
 - [Temat 1.4](https://github.com/Szkolne-projekty/notatki/blob/main/Geografia/1.4.pdf)
 
+## Aplikacje webowe
+
+- [Tkinter pdf](https://github.com/Szkolne-projekty/notatki/blob/main/Aplikacje%20webowe/notatka_tkinter.pdf)
+
+- [Tkinter md](https://github.com/Szkolne-projekty/notatki/blob/main/Aplikacje%20webowe/notatka_tkinter.md)
+
 ## Polski
 
 ### Młoda Polska
