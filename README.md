@@ -6,6 +6,8 @@ Po prostu notatki
 
 - [Kartkówka 12.10 (6.1, 6.2, 7.1)](https://github.com/Szkolne-projekty/notatki/blob/main/Historia/Kartk%C3%B3wka%2011.10/Kartk%C3%B3wka%2012.10.pdf)
 
+- [Odpowiedz listopad](https://github.com/Szkolne-projekty/notatki/blob/main/Historia/odp_listopad/dziad%20na%2001.11%20odp.pdf)
+
 ## Geografia
 
 ### Dział 1
