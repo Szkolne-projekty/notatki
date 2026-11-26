@@ -34,6 +34,8 @@ Po prostu notatki
 
 - [Fotony](https://github.com/Szkolne-projekty/notatki/blob/main/Fizyka/fizyka%20fotony.pdf)
 
+- [Fizyka atomowa](https://github.com/Szkolne-projekty/notatki/blob/main/Fizyka/atomowa.pdf)
+
 ## Zarządzanie firmą
 
 - [Podstawy zarządzania. Tło historyczne i jego geneza. Elementy zarządzania](https://github.com/Szkolne-projekty/notatki/blob/main/Zarz%C4%85dzanie%20firm%C4%85/zarzadzanie_firma.md)
